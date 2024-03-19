@@ -1,0 +1,11 @@
+html, body{
+	margin: 40px;
+}
+
+.err{
+	outline: 1px solid red;
+}
+
+.err_msg{
+	color: red;
+}
